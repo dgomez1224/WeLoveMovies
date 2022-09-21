@@ -3,6 +3,6 @@ This project creates a backend server for a frontend application that allows the
 
 
 Technologies used: 
-    - express
-    - postgreSQL
-    - knex
+- express
+- postgreSQL
+- knex
